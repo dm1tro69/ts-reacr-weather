@@ -1,8 +1,8 @@
 import React from 'react';
 import {Switch, Route} from 'react-router-dom'
 import './styles/index.scss'
-import Home from "./p[ages/Home/components/Home";
-import MonthStatistics from "./p[ages/MonthStatistics/MonthStatistics";
+import Home from "./pages/Home/components/Home";
+import MonthStatistics from "./pages/MonthStatistics/MonthStatistics";
 import Header from "./shared/Header/Header";
 
 function App() {
