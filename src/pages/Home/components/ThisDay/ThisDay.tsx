@@ -7,7 +7,7 @@ const ThisDay = () => {
         <div className={s.this_day}>
            <div className={s.top_block}>
                <div className={s.top_block_wrapper}>
-                   <div className={s.this_temp}>20*</div>
+                   <div className={s.this_temp}>20°</div>
                    <div className={s.this_day_name}>Сегодня</div>
                </div>
 
